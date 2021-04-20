@@ -27,7 +27,7 @@ var buttonClick = "";
 
 //enemy stuff
 var enemyIdleImage = new Image();
-enemyIdleImage.src = "img/enemySpriteIdle.png";
+enemyIdleImage.src = "img/EnemySpriteIdle.png";
 
 var enemyWalkingImage = new Image();
 var enemyHealth = 100;
