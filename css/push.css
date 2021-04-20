@@ -30,7 +30,7 @@
 
 .red {
   color: #FF0000;
-  transform: translateY(-100px);
+  transform: translate(50px, -100px);
 }
 
 .blue {
@@ -40,6 +40,7 @@
 
 .yellow {
     color: #FFFF00;
+    transform: translateX(50px);
 }
 
 .round {
