@@ -10,28 +10,28 @@ var frames = 6; // Total Frames
 var currentFrame = 0; // Current Frame
 
 var borderImageGreen = new Image();
-borderImageGreen.src = "./img/greenBorder.png";
+borderImageGreen.src = "img/greenBorder.png";
 
 var borderImageRed = new Image();
-borderImageRed.src = "./img/redBorder.png";
+borderImageRed.src = "img/redBorder.png";
 
 //player stuff
 var playerIdleImage = new Image();
-playerIdleImage.src = "./img/playerSpriteIdle.png";
+playerIdleImage.src = "img/playerSpriteIdle.png";
 
 var playerWalkingImage = new Image(); // image declaration 1 for the player, 1 for the npc and 1 for the winning message
 var playerHealth = 100;
-playerWalkingImage.src = "./img/playerSpriteWalking.png"; //sources are in the img folder
+playerWalkingImage.src = "img/playerSpriteWalking.png"; //sources are in the img folder
 
 var buttonClick = "";
 
 //enemy stuff
 var enemyIdleImage = new Image();
-enemyIdleImage.src = "./img/enemySpriteIdle.png";
+enemyIdleImage.src = "img/enemySpriteIdle.png";
 
 var enemyWalkingImage = new Image();
 var enemyHealth = 100;
-enemyWalkingImage.src = "./img/enemySpriteWalking.png";
+enemyWalkingImage.src = "img/enemySpriteWalking.png";
 
 var randEnemyChoice = 0;
 var playersTurn = true;
@@ -42,23 +42,23 @@ var enemyChoiceBeingActed = false;
 //win / loss screen 
 
 var winScreenImage = new Image();
-winScreenImage.src = "./img/YouWinScreen.png"
+winScreenImage.src = "img/YouWinScreen.png"
 var youWon = false;
 
 var loseScreenImage = new Image();
-loseScreenImage.src = "./img/YouLoseScreen.png"
+loseScreenImage.src = "img/YouLoseScreen.png"
 var youLost = false;
 
 //ranged attack 
 
 var rangedAttackImage = new Image();
-rangedAttackImage.src = "./img/lightning.png"
+rangedAttackImage.src = "img/lightning.png"
 var rangedX = 220;
 var lightningX = 300;
 
 //enemies ranged attack
 var enemyRangedAttackImage = new Image();
-enemyRangedAttackImage.src = "./img/lightning2.png"
+enemyRangedAttackImage.src = "img/lightning2.png"
 var enemyRangedX = 1600;
 var enemyLightningX = 300;
 
