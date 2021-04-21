@@ -55,7 +55,7 @@
    "background_color": "#000000",
    "display": "minimal-ui",
    "orientation": "landscape",
-   "scope": "/UI_Strategy_Game/",
+   "scope": ".",
    "start_url": "/index.html"
    
 }
