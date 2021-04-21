@@ -1,10 +1,10 @@
 var cacheName = 'seanwhelan117-pwa';
 var filesToCache = [
-  '/',
-  '/index.html',
-  '/css/push.css',
-  '/js/script.js',
-  'controller.html'
+  'https://seanwhelan117.github.io/UI_Strategy_Game/',
+  'https://seanwhelan117.github.io/UI_Strategy_Game/index.html',
+  'https://seanwhelan117.github.io/UI_Strategy_Game/css/push.css',
+  'https://seanwhelan117.github.io/UI_Strategy_Game/script.js',
+  'https://seanwhelan117.github.io/UI_Strategy_Game/controller.html'
 ];
 
 /* Cache contents when Offline See Cache */
