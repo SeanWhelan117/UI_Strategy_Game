@@ -56,6 +56,6 @@
    "display": "minimal-ui",
    "orientation": "landscape",
    "scope": "/UI_Strategy_Game/",
-   "start_url": "/UI_Strategy_Game/index.html"
+   "start_url": "/UI_Strategy_Game/"
    
 }
